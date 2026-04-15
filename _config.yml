@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Abhilash Pakalapati | AI Consultant | Senior Data Engineer | Author & Mentor"
+title                    : "Abhilash Pakalapati"
 title_separator          : "-"
 name                     : &name "Abhilash Pakalapati"
 description              : &description "Agentic AI Consultant, Senior Data Engineer, and SCRS Fellow. Published in CACM and Author of 'Making Work Easier with Modern AI Tools'."   # Update this with a general description of your site, this is the default if not overridden by a page
