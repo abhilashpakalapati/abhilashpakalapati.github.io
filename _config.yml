@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Abhilash Pakalapati"
 title_separator          : "-"
 name                     : &name "Abhilash Pakalapati"
-description              : &description "Agentic AI Consultant, Senior Data Engineer, and SCRS Fellow. Published in CACM and Author of 'Making Work Easier with Modern AI Tools'."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Agentic AI Consultant, Senior Data Engineer and SCRS Fellow. Published in CACM and Author of 'Making Work Easier with Modern AI Tools'."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://abhilashpakalapati.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,11 @@ author:
   avatar           : "abhilash-pakalapati.jpg"
   name             : "Abhilash Pakalapati"
   pronouns         : # example: "she/her"  
-  bio              : "Senior AI Consultant | Author | SCRS Fellow"
+  bio              : "Agentic AI Consultant | Senior Data Engineer (Fannie Mae) | Multi-Agent Systems & Knowledge Graphs | RAG, LangChain Specialist | PySpark | Vector DBs | AWS ML Certified | Published in Communications of the ACM (CACM) | SCRS Fellow"
   location         : "Herndon, Virginia"
   employer         : "Fannie Mae (Consultant)"
   uri              : # URL
-  email            : "abhilashpakalapati@ieee.org"
+  email            : "abhilashpakalapati@gmail.com"
   linkedin         : "abhilashpakalapati"
 
   # Academic websites
